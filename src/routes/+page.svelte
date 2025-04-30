@@ -1,5 +1,3 @@
-<script>
-  
+<script lang="ts">
 </script>
 
-<h1>Libra Full-Stack Bootcamp</h1>
